@@ -1,7 +1,7 @@
 
   # Architecture & Unity Catalog
-  - dv_dev {datavault - development catalog}
-  - dv_prod {datavault - production catalog}
+  - dv_dev {`development catalog`}
+  - dv_prod {`production catalog`}
     - **Schemas Structure**
       - `dv_{env}_landing` {reference to storage via volume}
   
